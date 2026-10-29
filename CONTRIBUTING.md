@@ -623,7 +623,7 @@ Some fields between angular brackets are **optional**, since some of the informa
 
 The repository must also contain a `CHANGELOG.md` file in its root, linked from the ontology via `vann:changes` and structured as described in the [ontology metadata checklist](#spar-ontology-metadata-checklist).
 
-This `CONTRIBUTING.md` file, together with `SUPPORT.md`, `CODE_OF_CONDUCT.md` and the issue and pull request templates, is maintained in the [`.github` directory of the website repository](https://github.com/sparontologies/sparontologies.github.io/tree/master/.github).
+This `CONTRIBUTING.md` file, together with `SUPPORT.md`, `CODE_OF_CONDUCT.md` and the issue and pull request templates, is provided to every repository of the organisation by the [SPAROntologies/.github](https://github.com/SPAROntologies/.github) repository, and does not need to be copied into the repository of the ontology.
 
 Additionally, a directory `docs` will be created in the master root of the repository. The directory `docs` must contain all the files related to the ontology, its versions in time, and the related documentation. In particular, it must include:
 
