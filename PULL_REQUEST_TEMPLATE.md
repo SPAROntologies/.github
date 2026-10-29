@@ -1,4 +1,4 @@
-<!-- Please read the contributing guidelines before opening a pull request: https://github.com/sparontologies/sparontologies.github.io/blob/master/.github/CONTRIBUTING.md -->
+<!-- Please read the contributing guidelines before opening a pull request: https://github.com/SPAROntologies/.github/blob/main/CONTRIBUTING.md -->
 
 Closes #<issue number>
 
